@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3ed"
+  },
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Designation": "Manager",
+  "Email": "john.doe@examplehotel.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3ee"
+  },
+  "FirstName": "Jane",
+  "LastName": "Smith",
+  "Designation": "Receptionist",
+  "Email": "jane.smith@citycenter.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3ef"
+  },
+  "FirstName": "Robert",
+  "LastName": "Johnson",
+  "Designation": "Receptionist",
+  "Email": "robert.johnson@seasideresort.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3f0"
+  },
+  "FirstName": "Emily",
+  "LastName": "Davis",
+  "Designation": "Housekeeping",
+  "Email": "emily.davis@mountainretreat.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3f1"
+  },
+  "FirstName": "Michael",
+  "LastName": "Brown",
+  "Designation": "Manager",
+  "Email": "michael.brown@downtownsuites.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3f2"
+  },
+  "FirstName": "Sophia",
+  "LastName": "Wilson",
+  "Designation": "Receptionist",
+  "Email": "sophia.wilson@riversidelodge.com"
+},
+{
+  "_id": {
+    "$oid": "656e9a33d29717bc7784d3f3"
+  },
+  "FirstName": "Daniel",
+  "LastName": "Miller",
+  "Designation": "Housekeeping",
+  "Email": "daniel.miller@luxurypalace.com"
+}]

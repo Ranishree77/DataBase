@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "656eac61d29717bc7784d40c"
+  },
+  "BookingID": {
+    "$oid": "656ea9f3d29717bc7784d405"
+  },
+  "PaymentDate": {
+    "$date": "2023-03-10T00:00:00.000Z"
+  },
+  "TotalAmount": 1040,
+  "Status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "656eac61d29717bc7784d40d"
+  },
+  "BookingID": {
+    "$oid": "656ea9f3d29717bc7784d406"
+  },
+  "PaymentDate": {
+    "$date": "2023-03-05T00:00:00.000Z"
+  },
+  "TotalAmount": 955,
+  "Status": "Pending"
+}]

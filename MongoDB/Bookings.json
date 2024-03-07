@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d403"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3f4"
+  },
+  "RoomNum": 101,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ee"
+  },
+  "CheckInDate": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Room Service",
+      "Charges": 20
+    },
+    {
+      "Note": "Spa Treatment",
+      "Charges": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d404"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3f6"
+  },
+  "RoomNum": 201,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ef"
+  },
+  "CheckInDate": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Laundry",
+      "Charges": 15
+    },
+    {
+      "Note": "Mini Bar",
+      "Charges": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d405"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3f8"
+  },
+  "RoomNum": 102,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3f2"
+  },
+  "CheckInDate": {
+    "$date": "2023-03-05T00:00:00.000Z"
+  },
+  "CheckOutDate": {
+    "$date": "2023-03-10T00:00:00.000Z"
+  },
+  "NumOfGuests": 1,
+  "Services": [
+    {
+      "Note": "Room Service",
+      "Charges": 10
+    },
+    {
+      "Note": "Laundry",
+      "Charges": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d406"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3fa"
+  },
+  "RoomNum": 103,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ef"
+  },
+  "CheckInDate": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "CheckOutDate": {
+    "$date": "2023-03-05T00:00:00.000Z"
+  },
+  "NumOfGuests": 1,
+  "Services": [
+    {
+      "Note": "Mini Bar",
+      "Charges": 30
+    },
+    {
+      "Note": "Room Service",
+      "Charges": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d407"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3fb"
+  },
+  "RoomNum": 104,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ef"
+  },
+  "CheckInDate": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "NumOfGuests": 1,
+  "Services": [
+    {
+      "Note": "Airport Transfer",
+      "Charges": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d408"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3fc"
+  },
+  "RoomNum": 105,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ee"
+  },
+  "CheckInDate": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Spa Treatment",
+      "Charges": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d409"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3fd"
+  },
+  "RoomNum": 301,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3f2"
+  },
+  "CheckInDate": {
+    "$date": "2023-04-02T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Room Service",
+      "Charges": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d40a"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3fe"
+  },
+  "RoomNum": 403,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3ee"
+  },
+  "CheckInDate": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Car Rental",
+      "Charges": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656ea9f3d29717bc7784d40b"
+  },
+  "GuestID": {
+    "$oid": "656ea2e8d29717bc7784d3ff"
+  },
+  "RoomNum": 106,
+  "StaffID": {
+    "$oid": "656e9a33d29717bc7784d3f2"
+  },
+  "CheckInDate": {
+    "$date": "2023-09-02T00:00:00.000Z"
+  },
+  "NumOfGuests": 2,
+  "Services": [
+    {
+      "Note": "Airport Transfer",
+      "Charges": 5
+    },
+    {
+      "Note": "Laundry",
+      "Charges": 20
+    }
+  ]
+}]

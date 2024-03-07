@@ -1,0 +1,168 @@
+[{
+  "_id": 101,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 100,
+  "Status": "Available"
+},
+{
+  "_id": 201,
+  "Type": "Deluxe",
+  "Capacity": 3,
+  "PricePerDay": 150,
+  "Status": "Available"
+},
+{
+  "_id": 102,
+  "Type": "Suite",
+  "Capacity": 4,
+  "PricePerDay": 200,
+  "Status": "Occupied"
+},
+{
+  "_id": 202,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 120,
+  "Status": "Available"
+},
+{
+  "_id": 103,
+  "Type": "Ocean View",
+  "Capacity": 2,
+  "PricePerDay": 180,
+  "Status": "Occupied"
+},
+{
+  "_id": 104,
+  "Type": "Mountain View",
+  "Capacity": 3,
+  "PricePerDay": 160,
+  "Status": "Available"
+},
+{
+  "_id": 105,
+  "Type": "Executive",
+  "Capacity": 2,
+  "PricePerDay": 220,
+  "Status": "Available"
+},
+{
+  "_id": 301,
+  "Type": "Deluxe",
+  "Capacity": 3,
+  "PricePerDay": 170,
+  "Status": "Occupied"
+},
+{
+  "_id": 403,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 110,
+  "Status": "Available"
+},
+{
+  "_id": 106,
+  "Type": "Suite",
+  "Capacity": 4,
+  "PricePerDay": 210,
+  "Status": "Available"
+},
+{
+  "_id": 107,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 130,
+  "Status": "Occupied"
+},
+{
+  "_id": 203,
+  "Type": "Ocean View",
+  "Capacity": 2,
+  "PricePerDay": 190,
+  "Status": "Available"
+},
+{
+  "_id": 204,
+  "Type": "Mountain View",
+  "Capacity": 3,
+  "PricePerDay": 180,
+  "Status": "Available"
+},
+{
+  "_id": 108,
+  "Type": "Executive",
+  "Capacity": 2,
+  "PricePerDay": 230,
+  "Status": "Occupied"
+},
+{
+  "_id": 205,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 110,
+  "Status": "Available"
+},
+{
+  "_id": 109,
+  "Type": "Deluxe",
+  "Capacity": 3,
+  "PricePerDay": 160,
+  "Status": "Occupied"
+},
+{
+  "_id": 206,
+  "Type": "Suite",
+  "Capacity": 4,
+  "PricePerDay": 220,
+  "Status": "Available"
+},
+{
+  "_id": 207,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 130,
+  "Status": "Occupied"
+},
+{
+  "_id": 110,
+  "Type": "Ocean View",
+  "Capacity": 2,
+  "PricePerDay": 190,
+  "Status": "Available"
+},
+{
+  "_id": 111,
+  "Type": "Mountain View",
+  "Capacity": 3,
+  "PricePerDay": 180,
+  "Status": "Available"
+},
+{
+  "_id": 208,
+  "Type": "Executive",
+  "Capacity": 2,
+  "PricePerDay": 230,
+  "Status": "Occupied"
+},
+{
+  "_id": 209,
+  "Type": "Deluxe",
+  "Capacity": 3,
+  "PricePerDay": 170,
+  "Status": "Available"
+},
+{
+  "_id": 112,
+  "Type": "Standard",
+  "Capacity": 2,
+  "PricePerDay": 110,
+  "Status": "Available"
+},
+{
+  "_id": 113,
+  "Type": "Suite",
+  "Capacity": 4,
+  "PricePerDay": 210,
+  "Status": "Occupied"
+}]
